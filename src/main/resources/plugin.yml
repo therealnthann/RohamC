@@ -1,0 +1,51 @@
+name: RohamC
+version: 1.0
+main: com.yourname.antidupe.AntiDupe
+api-version: 1.21
+commands:
+  antidupe:
+    description: Duplicate items in hand
+    usage: /antidupe
+    permission: rohamc.antidupe
+  timespeed:
+    description: Toggle fast day/night
+    usage: /timespeed
+    permission: rohamc.timespeed
+  midas:
+    description: Toggle Midas Touch
+    usage: /midas
+    permission: rohamc.midas
+  mining:
+    description: Vein Miner + Auto-Smelt + Telekinesis
+    usage: /mining
+    permission: rohamc.mining
+  zeus:
+    description: Toggle Zeus mode (strike lightning)
+    usage: /zeus
+    permission: rohamc.zeus
+  berserk:
+    description: Toggle Berserk Mode (double melee damage)
+    usage: /berserk
+    permission: rohamc.berserk
+permissions:
+  rohamc.*:
+    description: Grants access to all RohamC commands
+    default: op
+  rohamc.antidupe:
+    description: Allows /antidupe
+    default: op
+  rohamc.timespeed:
+    description: Allows /timespeed
+    default: op
+  rohamc.midas:
+    description: Allows /midas
+    default: op
+  rohamc.mining:
+    description: Allows /mining
+    default: op
+  rohamc.zeus:
+    description: Allows /zeus
+    default: op
+  rohamc.berserk:
+    description: Allows /berserk
+    default: op
