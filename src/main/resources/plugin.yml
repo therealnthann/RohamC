@@ -2,46 +2,46 @@ name: RohamC
 main: org.rohamc.RohamC
 version: 1.0.0
 api-version: 1.21.11
-description: Multi-feature fun/admin plugin: dupe, mining, midas, zeus, berserk, timespeed
+description: "Multi-feature fun/admin plugin: dupe, mining, midas, zeus, berserk, timespeed"
 authors:
   - Quill
 commands:
   antidupe:
-    description: Duplicate items in hand
+    description: "Duplicate items in hand"
     usage: /antidupe
     permission: rohamc.antidupe
   midas:
-    description: Turn blocks/items to gold
+    description: "Turn blocks/items to gold"
     usage: /midas
     permission: rohamc.midas
   mining:
-    description: Vein miner + auto-smelt + telekinesis
+    description: "Vein miner + auto-smelt + telekinesis"
     usage: /mining
     permission: rohamc.mining
   zeus:
-    description: Strike lightning wherever you click
+    description: "Strike lightning wherever you click"
     usage: /zeus
     permission: rohamc.zeus
   berserk:
-    description: Double melee damage in PvP
+    description: "Double melee damage in PvP"
     usage: /berserk
     permission: rohamc.berserk
 permissions:
   rohamc.*:
-    description: Grants access to all RohamC commands
+    description: "Grants access to all RohamC commands"
     default: op
   rohamc.antidupe:
-    description: Allows /antidupe
+    description: "Allows /antidupe"
     default: op
   rohamc.midas:
-    description: Allows /midas
+    description: "Allows /midas"
     default: op
   rohamc.mining:
-    description: Allows /mining
+    description: "Allows /mining"
     default: op
   rohamc.zeus:
-    description: Allows /zeus
+    description: "Allows /zeus"
     default: op
   rohamc.berserk:
-    description: Allows /berserk
+    description: "Allows /berserk"
     default: op
