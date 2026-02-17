@@ -1,6 +1,6 @@
-package com.yourname.timespeed;
+package org.rohamc.timespeed;
 
-import com.yourname.timespeed.commands.TimeSpeedCommand;
+import org.rohamc.timespeed.commands.TimeSpeedCommand;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class TimeSpeed extends JavaPlugin {

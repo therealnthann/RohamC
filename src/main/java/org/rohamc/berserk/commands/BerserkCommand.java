@@ -1,6 +1,6 @@
-package com.yourname.berserk.commands;
+package org.rohamc.berserk.commands;
 
-import com.yourname.berserk.Berserk;
+import org.rohamc.berserk.Berserk;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;

@@ -1,6 +1,6 @@
-package com.yourname.midastouch;
+package org.rohamc.midastouch;
 
-import com.yourname.midastouch.commands.MidasCommand;
+import org.rohamc.midastouch.commands.MidasCommand;
 import org.bukkit.Bukkit;
 import org.bukkit.Material;
 import org.bukkit.block.Block;

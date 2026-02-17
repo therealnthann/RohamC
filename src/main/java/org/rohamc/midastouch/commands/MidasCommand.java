@@ -1,6 +1,6 @@
-package com.yourname.midastouch.commands;
+package org.rohamc.midastouch.commands;
 
-import com.yourname.midastouch.MidasTouch;
+import org.rohamc.midastouch.MidasTouch;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;

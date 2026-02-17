@@ -1,6 +1,6 @@
-package com.yourname.antidupe;
+package org.rohamc.antidupe;
 
-import com.yourname.antidupe.commands.AntiDupeCommand;
+import org.rohamc.antidupe.commands.AntiDupeCommand;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class AntiDupe extends JavaPlugin {

@@ -1,4 +1,4 @@
-package com.yourname.berserk;
+package org.rohamc.berserk;
 
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;

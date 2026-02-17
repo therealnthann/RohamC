@@ -1,6 +1,6 @@
-package com.yourname.antidupe.commands;
+package org.rohamc.antidupe.commands;
 
-import com.yourname.antidupe.AntiDupe;
+import org.rohamc.antidupe.AntiDupe;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;

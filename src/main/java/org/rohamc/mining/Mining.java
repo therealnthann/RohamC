@@ -1,4 +1,4 @@
-package com.yourname.mining;
+package org.rohamc.mining;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Material;

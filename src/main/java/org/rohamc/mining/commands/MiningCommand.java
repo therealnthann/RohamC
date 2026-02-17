@@ -1,6 +1,6 @@
-package com.yourname.mining.commands;
+package org.rohamc.mining.commands;
 
-import com.yourname.mining.Mining;
+import org.rohamc.mining.Mining;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;

@@ -1,4 +1,4 @@
-package com.yourname.timespeed.commands;
+package org.rohamc.timespeed.commands;
 
 import org.bukkit.Bukkit;
 import org.bukkit.World;

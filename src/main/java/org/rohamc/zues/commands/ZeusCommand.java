@@ -1,6 +1,6 @@
-package com.yourname.zeus.commands;
+package org.rohamc.zeus.commands;
 
-import com.yourname.zeus.Zeus;
+import org.rohamc.zeus.Zeus;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;

@@ -1,4 +1,4 @@
-package com.yourname.zeus;
+package org.rohamc.zeus;
 
 import org.bukkit.Bukkit;
 import org.bukkit.block.Block;
